@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-const { type } = require("os");
 
 const personSchema = new mongoose.Schema({
     name : 
